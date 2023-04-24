@@ -15,6 +15,6 @@ if __name__ == '__main__':
     print('How are you')
     print(password)
 
-x = 3
+x = 30
 
 print(my_function(2, 4))
